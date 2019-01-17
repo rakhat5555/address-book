@@ -1,3 +1,28 @@
-#story {
+#addressBook {
   display: none;
+}
+body {
+  background-image: url("../imgs/address.jpg")
+}
+
+
+.title {
+  margin-top: 5%;
+  text-align: center;
+}
+
+
+#contact {
+  display: block;
+  margin: 0 auto;
+  max-width: 50%;
+}
+
+#addressBook {
+  padding-top: 5%;
+  text-align: center;
+
+  margin: 0 auto;
+  background-color: yellow;
+
 }
